@@ -28,7 +28,7 @@ https://github.com/Bibek-Ray/Property-Price-Predictor/assets/82962780/27e00cc4-d
 To get started with the House Price Predictor, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/Bibek-Ray/Property-Price-Predictor.git
+   git clone https://github.com/Arnabhit/house_predict.git
 
 2. Install the required dependencies:
    pip install -r requirements.txt
